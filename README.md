@@ -1,6 +1,6 @@
 # Shuffle and Sort
 
-Step 1 - Go to the repository by using the link (https://github.com/shrivastava-rachit/single-page-checkoout)
+Step 1 - Go to the repository by using the link (https://github.com/shrivastava-rachit/Shuffle-Sort)
 
 Step 2 - Go to Code Button (green colored button on the top right of the page wrapper) and copy the given HTTPS link or you can also download the code as .zip
 
